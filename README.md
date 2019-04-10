@@ -1,7 +1,5 @@
 # LinuxShellTask
 
-后端工程师需要用到的shell知识。
-
 #### 如何登陆远程服务器？
 
 ``` bash
