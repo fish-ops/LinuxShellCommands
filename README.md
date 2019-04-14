@@ -15,3 +15,13 @@ $ scp -r root@142.93.21.228:/etc/nginx ./DeskTop/a
 
 - `r`: 递归复制，将文件夹下所有内容都复制到本地
 
+#### 如何查询某域名对应的IP地址？
+``` bash
+$ nslookup github.com
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+Name:	github.com
+Address: 52.74.223.119 
+```
