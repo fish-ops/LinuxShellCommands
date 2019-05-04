@@ -25,3 +25,11 @@ Non-authoritative answer:
 Name:	github.com
 Address: 52.74.223.119 
 ```
+
+#### 如何修改本机域名-ip的映射关系？
+``` bash
+# 打开hosts文件
+$ sudo vi etc/hosts
+
+# 添加域名-ip的映射关系
+```
